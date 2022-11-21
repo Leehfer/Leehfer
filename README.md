@@ -1,7 +1,7 @@
 <h3> Olá ! Eu sou a Letícia Ferreira da Silva✋ </h3>
  <a target="parent" href="https://www.linkedin.com/in/let%C3%ADcia-ferreira-da-silva-582232214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a><a  target="_blank" href="mailto:leticiaalmeida75@hotmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a> 
  
-![Leehfer GitHub stats](https://github-readme-stats.vercel.app/api?username=Leehfer&show_icons=true&theme=radical)
+![ Letícia Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Leehfer&show_icons=true&theme=radical)
 
 <h2>Tecnologias que eu utilizo no meu dia 😊 </h2>
 <div style= "display: inline_block"> <br>
